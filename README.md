@@ -1,2 +1,2 @@
 # java-intern-task1
-Java basics and OOP concepts using simple programs with loops, arrays, classes, inheritance, polymorphism, and encapsulation through practical Java source code examples.
+Java console application implementing Student Management System using Scanner, loops, arrays, and conditional statements to demonstrate core Java fundamentals and user interaction.
